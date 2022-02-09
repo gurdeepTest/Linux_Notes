@@ -27,8 +27,8 @@
 **copy :** 
 
 Links https://www.baeldung.com/linux/rotating-logs-logrotate
-      
-      https://opensource.com/article/21/10/linux-logrotate
-      
-      https://www.techrepublic.com/article/manage-linux-log-files-with-logrotate/
+
+https://opensource.com/article/21/10/linux-logrotate
+
+https://www.techrepublic.com/article/manage-linux-log-files-with-logrotate/
       
